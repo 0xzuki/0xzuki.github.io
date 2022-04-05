@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xcE5b5A42A4635983BAAB5576aF3FA008d5277900",
+  "SCAN_LINK": "https://polygonscan.com/token/0xcE5b5A42A4635983BAAB5576aF3FA008d5277900",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "0xZuki Wrapped Matic",
+  "SYMBOL": "0xZuki",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/crypto-fight-clubs",
+  "SHOW_BACKGROUND": true
+}
